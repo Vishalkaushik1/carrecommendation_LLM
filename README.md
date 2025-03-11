@@ -1,6 +1,7 @@
 
 # Car Recommendation AI
 https://openwebui.com/u/vishalkaushik - Open WebUI Link
+
 ![image](https://github.com/user-attachments/assets/699c89ef-51f3-4759-b3a6-328a03e62575)
 
 
@@ -30,7 +31,8 @@ Frameworks: Python-based ML tools for model training and fine-tuning.
 
 User Interface: Interactive web interface for user input and real-time responses.
 ## Images
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/2d84b301-dd40-41e5-add5-a2bc8cb8238c)
 
 ## Vedio
 https://github.com/user-attachments/assets/96260df8-36e7-4057-a4ae-076f78d46939
