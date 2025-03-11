@@ -1,7 +1,7 @@
-# carrecommendation_LLM
-Car Recommendation AI
 
-Objective
+# Car Recommendation AI
+
+## Objective
 
 The Car Recommendation AI is an intelligent assistant designed to help users find their ideal car based on budget, fuel type, body style, and feature preferences. By leveraging machine learning, structured automotive data, and interactive AI, this project aims to:
 
@@ -27,7 +27,7 @@ Frameworks: Python-based ML tools for model training and fine-tuning.
 
 User Interface: Interactive web interface for user input and real-time responses.
 
-Results
+## Results
 
 ## Recommendation Accuracy
 
@@ -53,7 +53,7 @@ Educates users on key aspects such as engine performance, resale value, maintena
 
 Encourages informed decision-making by offering expert-level details on car financing, warranties, and long-term costs.
 
-Key Learnings
+## Key Learnings
 
 ## Contextual Precision & Personalization
 
@@ -67,13 +67,13 @@ Maintaining a balance between technical specifications (engine specs, mileage, b
 
 Prioritizing user needs and preferences ensures a tailored, easy-to-understand experience.
 
-##Decision-Making Support & Assistance
+## Decision-Making Support & Assistance
 
 The AI provides a step-by-step guide for users, from choosing a car to understanding financial aspects like EMIs and insurance.
 
 Alternative recommendations ensure that users receive multiple options to consider before making a final decision.
 
-Prompt Design & AI Structuring
+## Prompt Design & AI Structuring
 
 A well-structured persona-driven prompt framework ensures that the AI consistently delivers:
 
@@ -85,7 +85,7 @@ A data-backed approach that enhances the credibility of the suggestions.
 
 By combining machine learning, structured datasets, and conversational AI, the Car Recommendation AI delivers an engaging, efficient, and intelligent system for helping users find their perfect car.
 
-##Future Enhancements
+## Future Enhancements
 
 We aim to enhance the system further by:
 
