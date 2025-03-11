@@ -13,7 +13,7 @@ Enhance user decision-making by offering comparisons, specifications, and expert
 
 Simplify the car selection process, making it easier for users to explore their best options effortlessly.
 
-Tech Stack Used
+## Tech Stack Used
 
 This AI system is built using state-of-the-art tools and frameworks to ensure reliability, accuracy, and a seamless user experience:
 
